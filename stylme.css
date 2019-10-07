@@ -1,0 +1,16 @@
+body {
+background-color: gray
+}
+h1 {
+  color: skyblue;
+  font-family: italic
+}
+
+h3 {color:green;
+font-style: italic;}
+
+a {color:red}
+
+b {color:yellow;
+font-style: Arial black;
+}
